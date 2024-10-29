@@ -5,5 +5,3 @@ En este taller, implementaremos un sistema de pedidos en Java que permite gestio
 
 ## Autor
 **[Juan David Moreno]**
-
----
